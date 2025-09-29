@@ -3,13 +3,13 @@
 - [ ] 🐞 Bug fix
 - [ ] 📝 Documentation update
 - [ ] ♻️ Refactor / code cleanup
-- [ ] 🤖 Dependency upgrade
+- [ ] ⚙️ Dependency upgrade
 - [ ] 🚢 CI update
 
 ## 📝 Description
 <!-- Please include a summary of the change and why it is needed. -->
 
-## :bee: Hive Card
+## 🐝 Hive Card
 <!-- Please add a link to the relevant Hive card (if applicable). This is important to give the reviewer extra context and for time recording. -->
 
 ## ✅ Checklist
