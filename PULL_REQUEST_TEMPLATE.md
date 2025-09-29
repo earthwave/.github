@@ -14,7 +14,7 @@
 
 ## ✅ Checklist
 - [ ] My code follows the project’s style and guidelines.
-- [ ] I have considered whether adding any Jupyter notebooks is necessary and useful to others.  
+- [ ] I have considered whether adding any Jupyter notebooks is necessary and useful to others.
       (Reminder: notebooks are brittle since they are not covered by automated tests.)
 - [ ] I have considered the wider impact of changing shared components/libraries.
 - [ ] I have tested my changes locally.
