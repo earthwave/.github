@@ -3,8 +3,8 @@
 - [ ] 🐞 Bug fix
 - [ ] 📝 Documentation update
 - [ ] ♻️ Refactor / code cleanup
-- [ ] :robot: Dependency upgrade
-- [ ] :ship: CI update
+- [ ] 🤖 Dependency upgrade
+- [ ] 🚢 CI update
 
 ## 📝 Description
 <!-- Please include a summary of the change and why it is needed. -->
